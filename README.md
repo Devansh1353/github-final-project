@@ -1,1 +1,3 @@
-# github-final-project
+# Simple Interest Calculator Project
+
+A simple script to calculate simple interest given principal, annual rate of interest, and time period in years.
